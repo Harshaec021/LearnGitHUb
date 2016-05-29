@@ -1,3 +1,5 @@
 User 1 has addedd a demo file
 Good work
 Keep it up
+
+User1 changed the file after commit
