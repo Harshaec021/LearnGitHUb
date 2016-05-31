@@ -1,1 +1,3 @@
 Hello DIff command
+
+This is Harsha user trying to change the file
